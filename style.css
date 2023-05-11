@@ -181,10 +181,10 @@ footer a {
 }
 @media (max-width: 416px) {
   #for-responsiveness {
-    width: 41rem;
+    width: 41.4rem;
   }
   body {
-    width: 41.1rem;
+    width: 41.4rem;
   }
 }
 
